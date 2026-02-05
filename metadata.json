@@ -1,0 +1,5 @@
+{
+  "name": "MikroTik Master Guide",
+  "description": "Aplikasi panduan konfigurasi MikroTik lengkap dengan perbandingan GUI (WinBox) dan CLI (Terminal), dilengkapi asisten AI untuk pembuatan script otomatis.",
+  "requestFramePermissions": []
+}
